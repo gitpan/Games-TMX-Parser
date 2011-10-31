@@ -23,7 +23,7 @@ my %WriteMakefileArgs = (
     "Moose" => "2.0204",
     "XML::Twig" => "3.39"
   },
-  "VERSION" => "0.9",
+  "VERSION" => "0.91",
   "test" => {
     "TESTS" => "t/*.t"
   }

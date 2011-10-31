@@ -15,4 +15,4 @@ name: Games-TMX-Parser
 requires:
   Moose: 2.0204
   XML::Twig: 3.39
-version: 0.9
+version: 0.91
